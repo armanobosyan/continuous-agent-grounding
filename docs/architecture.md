@@ -1,16 +1,20 @@
 # Architecture
 
 ## High-level view
+
+```
 User / Agent
-↓
+    ↓
 MCP Client (Azure AI Foundry / Copilot Studio / custom agent)
-↓
+    ↓
 Sugra MCP Server
-↓
+    ↓
 Sugra Live Primary Data API
-↓
+    ↓
 Primary Sources (markets, macro, climate, maritime, news, entities...)
-text## Key components
+```
+
+## Key components
 
 1. **Live Primary Data API**
    - 1500+ endpoints
