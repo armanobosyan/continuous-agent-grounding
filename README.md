@@ -1,7 +1,7 @@
 # Continuous Agent Grounding
 
 **Microsoft Global Hackathon 2026**  
-Executive Challenge: *Hack for Continuous Agent Improvement*
+Executive Challenge: *Hack for Continuous Agent Improvement* (Kevin Scott, CTO)
 
 > Agents improve only when grounded in reliable real-world signals.
 
@@ -13,7 +13,7 @@ Most AI agents still rely on:
 
 This creates the **confidence trap** — fluent answers that are outdated, incomplete, or confidently wrong.
 
-Without continuous real-world signals, agents cannot meaningfully improve over time.
+**Real example (24 Aug 2026):** A frontier model asked for current daily transit counts through Hormuz / Suez / Malacca / Panama spent 2 minutes 17 seconds reconciling conflicting web sources and still returned approximate numbers with heavy caveats. Without clean primary signals there is no durable ground truth for continuous improvement.
 
 ## Solution
 
@@ -28,7 +28,7 @@ We provide a **live primary-data grounding layer** that agents can use as a cont
 
 ## What we are building during the Hackathon
 
-1. Clear before/after demonstration of agent quality with vs without live grounding
+1. Clear before/after demonstration of agent quality with vs without live grounding (using real live queries such as maritime chokepoints)
 2. Lightweight critic & evaluation layer based on live primary data
 3. Integration patterns with Microsoft agent surfaces (Azure AI Foundry / Copilot Studio style)
 4. Measurable continuous improvement loop
@@ -43,6 +43,7 @@ We provide a **live primary-data grounding layer** that agents can use as a cont
 +---docs
 |       architecture.md
 |       demo-script.md
+|       example-chatgpt-chokepoints.md
 |       problem.md
 |
 +---examples
