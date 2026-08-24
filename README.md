@@ -56,8 +56,10 @@ We provide a **live primary-data grounding layer** that agents can use as a cont
 
 ## Links
 
-- Project page on Innovation Studio:
+Project page on Innovation Studio:
 - Microsoft Global Hackathon 2026 https://url.sugra.ai/hack2026
+
+Sugra:
 - Sugra API https://sugra.ai
 - Sugra MCP https://github.com/Sugra-Systems/sugra-api-mcp
 
