@@ -56,12 +56,14 @@ We provide a **live primary-data grounding layer** that agents can use as a cont
 
 ## Links
 
-- Project page on Innovation Studio: *(add link after creation)*
+- Project page on Innovation Studio:
+- [Microsoft Global Hackathon 2026] https://url.sugra.ai/hack2026
 - [Sugra API](https://sugra.ai)
 - [Sugra MCP](https://github.com/Sugra-Systems/sugra-api-mcp)
+
 - Blog posts:
-  - [The Confidence Trap](https://sugra.systems/blog/the-confidence-trap)
-  - [AI Needs Live Data](https://sugra.systems/blog/ai-needs-live-data)
+- [The Confidence Trap](https://sugra.systems/blog/the-confidence-trap)
+- [AI Needs Live Data](https://sugra.systems/blog/ai-needs-live-data)
 
 ## Team
 
