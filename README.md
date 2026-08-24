@@ -61,7 +61,7 @@ We provide a **live primary-data grounding layer** that agents can use as a cont
 - Sugra API https://sugra.ai
 - Sugra MCP https://github.com/Sugra-Systems/sugra-api-mcp
 
-- Blog posts:
+Blog posts:
 - The Confidence Trap https://url.sugra.blog/conftrap
 - AI Needs Live Data https://url.sugra.blog/ailive
 
