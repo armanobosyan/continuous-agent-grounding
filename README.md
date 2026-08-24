@@ -34,3 +34,28 @@ We provide a **live primary-data grounding layer** that agents can use as a cont
 4. Measurable continuous improvement loop
 
 ## Repository Structure
+
+├── README.md
+├── docs/
+│   ├── problem.md
+│   ├── architecture.md
+│   └── demo-script.md
+├── examples/
+│   └── agent-demo/
+└── resources/
+text## Links
+
+- Project page on Innovation Studio: *(add link after creation)*
+- Sugra API: https://sugra.ai
+- Sugra MCP: https://github.com/Sugra-Systems/sugra-api-mcp
+- Blog posts:
+  - [The Confidence Trap](https://sugra.systems/blog/the-confidence-trap)
+  - [AI Needs Live Data](https://sugra.systems/blog/ai-needs-live-data)
+
+## Team
+
+- Arman Obosyan
+
+## License
+
+This repository is created for Microsoft Global Hackathon 2026.
