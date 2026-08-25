@@ -105,7 +105,6 @@ Full write-up: [docs/architecture.md](docs/architecture.md)
 - **Innovation Studio:** [https://url.sugra.ai/hack2026](https://url.sugra.ai/hack2026)
 - **Sugra API:** [https://sugra.ai](https://sugra.ai)
 - **API docs:** [https://docs.sugra.ai](https://docs.sugra.ai)
-- **MCP endpoint:** [https://app.sugra.ai/mcp](https://app.sugra.ai/mcp)
 - **MCP package:** [sugra-api-mcp](https://github.com/Sugra-Systems/sugra-api-mcp)
 
 Blog posts:
